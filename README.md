@@ -55,6 +55,10 @@
   </tr>
 </table>
 
+### Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=tesddev&column=4&margin-w=15&margin-h=15&no-frame=true)](https://github.com/tesddev/github-profile-trophy)
+
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tesddev&layout=compact&theme=vision-friendly-dark)](https://github.com/tesddev/github-readme-stats)
